@@ -1,7 +1,5 @@
 # Hello, I'm Yuki Wakamatsu 👋
 
-## About Me
-
 - student at **Nagoya University**, **Information** department, majoring **Human and Social Informatics**  
 - ✉️ [yukiwakamatsu6a@gmail.com](mailto:yukiwakamatsu6a@gmail.com)
 
@@ -16,8 +14,7 @@
 - [第64回名大祭 公式Webサイト](https://old.meidaisai.com/)
   - website for my university festival
   - used **WordPress**
- 
-## Skills
+
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,django,wordpress)](https://skillicons.dev)
 
