@@ -12,7 +12,7 @@
   - created as part of research on *Takayama City, Gifu Prefecture*
   - used **WriterAI's Web Framework**
 - [第64回名大祭 公式Webサイト](https://old.meidaisai.com/)
-  - website for my university festival
+  - website for my university's festival
   - used **WordPress**
 
 
