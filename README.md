@@ -11,7 +11,7 @@
 - [高山市歩行者逆引きダッシュボード](http://35.73.95.100/)
   - created as part of research on Takayama City, Gifu Prefecture
   - used WriterAI's Web Framework
-- [第65回名大祭 公式Webサイト](https://old.meidaisai.com/)
+- [第64回名大祭 公式Webサイト](https://old.meidaisai.com/)
   - website for my university festival
   - used WordPress
 
