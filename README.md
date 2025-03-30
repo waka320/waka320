@@ -18,4 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,django,wordpress)](https://skillicons.dev)
 
-![Yuki Wakamatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=waka320&show_icons=true&theme=graywhite)
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=waka320&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waka320&layout=compact" />
+</div>
