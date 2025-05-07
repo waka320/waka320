@@ -1,6 +1,7 @@
 # Hello, I'm Yuki Wakamatsu 👋
 
 - student at **Nagoya University**, **Information** department, majoring **Human and Social Informatics**  
+- X [@waka320port](https://x.com/waka320port)
 - ✉️ [yuki@wakaport.com](mailto:yuki@wakaport.com)
 
 ## Works
