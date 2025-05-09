@@ -20,7 +20,7 @@
   - used **WordPress**
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,django,fastapi,wordpress)](https://skillicons.dev)
+#[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,django,fastapi,wordpress)](https://skillicons.dev)
 
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=waka320&layout=compact" />
