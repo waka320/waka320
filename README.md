@@ -9,6 +9,9 @@
 - [Wakaport.](https://wakaport.com/) *[developting]*
   - my Portfolio and Portal.
   - Respect for [KawaPort](https://kawaport.pages.dev/)
+- [アクロアタック.(AcroAttack.)](https://acro-attack.wakaport.com)
+  - a game using IT terms
+  - Made by static NextJS & FastAPI
 - [安心打診おばあ](https://jphacks.github.io/ng_2406/)
   - project created for *JPHACKS_2024*, awarded 2 sponsor prizes
   - used **React**, did **design & UI**
