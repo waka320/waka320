@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./power.png" alt="Banner" width="45%" style="border: 2px solid black;" />
+</div>
+
 # Hello, I'm Yuki Wakamatsu 👋
 
 - student at **Nagoya University**, **Information** department, majoring **Human and Social Informatics**  
