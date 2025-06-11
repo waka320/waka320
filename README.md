@@ -13,13 +13,13 @@
 - [Wakaport.](https://wakaport.com/) *[developting]*
   - my Portfolio and Portal.
   - Respect for [KawaPort](https://kawaport.pages.dev/)
-- [アクロアタック.(AcroAttack.)](https://acro-attack.wakaport.com)
+- [アクロアタック.(AcroAttack.)](https://acro-attack.wakaport.com) *[Hot NOW🔥]*
   - a game using IT terms
   - Made by static NextJS & FastAPI
 - [安心打診おばあ](https://jphacks.github.io/ng_2406/)
   - project created for *JPHACKS_2024*, awarded 2 sponsor prizes
   - used **React**, did **design & UI**
-- [高山市歩行者逆引きダッシュボード](http://35.73.95.100/)
+- [高山市歩行者逆引きダッシュボード](https://ai-camera.lab.mdg-meidai.com/)
   - created as part of research on *Takayama City, Gifu Prefecture*
   - used **WriterAI's Web Framework**
 - [第64回名大祭 公式Webサイト](https://old.meidaisai.com/)
