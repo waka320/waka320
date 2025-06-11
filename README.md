@@ -2,7 +2,7 @@
   <img src="./power.png" alt="Banner" width="45%" style="border: 2px solid black;" />
 </div>
 
-# Hello, I'm Yuki Wakamatsu 👋
+# Hello there👋
 
 - student at **Nagoya University**, **Information** department, majoring **Human and Social Informatics**  
 - X [@waka320port](https://x.com/waka320port)
