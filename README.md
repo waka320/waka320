@@ -21,7 +21,7 @@
   - used **React**, did **design & UI**
 - [高山市歩行者逆引きダッシュボード](https://ai-camera.lab.mdg-meidai.com/)
   - created as part of research on *Takayama City, Gifu Prefecture*
-  - used **WriterAI's Web Framework**
+  - used **React**, **FastAPI**
 - [第64回名大祭 公式Webサイト](https://old.meidaisai.com/)
   - website for my university's festival
   - used **WordPress**
