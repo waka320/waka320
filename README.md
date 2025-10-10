@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./power.png" alt="Banner" width="45%" style="border: 2px solid black;" />
+  <img src="./logo.png" alt="Banner" width="80%" style="border: 2px solid black;" />
 </div>
 
 # Hello there👋
@@ -20,12 +20,9 @@
 - [安心打診おばあ](https://jphacks.github.io/ng_2406/)
   - project created for *JPHACKS_2024*, awarded 2 sponsor prizes
   - used **React**, did **design & UI**
-- [高山市歩行者逆引きダッシュボード](https://ai-camera.lab.mdg-meidai.com/)
+- [高山市目的ベースダッシュボード](https://ai-camera.lab.mdg-meidai.com/)
   - created as part of research on *Takayama City, Gifu Prefecture*
   - used **React**, **FastAPI**
-- [第64回名大祭 公式Webサイト](https://old.meidaisai.com/)
-  - website for my university's festival
-  - used **WordPress**
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,django,fastapi,wordpress)](https://skillicons.dev)
