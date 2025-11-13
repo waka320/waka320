@@ -12,7 +12,7 @@
 
 - [WakamatsuYukiの部屋.](https://wakaport.com/) 
   - my Portfolio and Portal.
-- [数学動画ジェネレーター「SUDO」](https://jphacks.github.io/ng_2406/)
+- [数学動画ジェネレーター「SUDO」](https://github.com/jphacks/ng_2501)
   - project created for *JPHACKS_2025*, awarded Special Jury Award and 3 sponsor prizes
   - used **Next.js**, did **design & UI**
 - [ReadEasyJP.](https://chromewebstore.google.com/detail/readeasyjp/jjfjlfbdjklmpgfnfomkbcfjhmiekhdn?authuser=0&hl=ja) 
